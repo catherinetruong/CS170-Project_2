@@ -1,0 +1,23 @@
+
+Dataset has 6 features with 500 instances.
+
+Beginning forward selection...
+Using feature(s) [1], accuracy is 0.694
+Using feature(s) [2], accuracy is 0.844
+Using feature(s) [3], accuracy is 0.682
+Using feature(s) [4], accuracy is 0.684
+Using feature(s) [5], accuracy is 0.700
+Using feature(s) [6], accuracy is 0.690
+Best feature set to expand is [2] with accuracy 0.844
+Using feature(s) [2, 1], accuracy is 0.830
+Using feature(s) [2, 3], accuracy is 0.828
+Using feature(s) [2, 4], accuracy is 0.836
+Using feature(s) [2, 5], accuracy is 0.940
+Using feature(s) [2, 6], accuracy is 0.816
+Best feature set to expand is [2, 5] with accuracy 0.940
+Using feature(s) [2, 5, 1], accuracy is 0.876
+Using feature(s) [2, 5, 3], accuracy is 0.902
+Using feature(s) [2, 5, 4], accuracy is 0.914
+Using feature(s) [2, 5, 6], accuracy is 0.894
+The best feature set was [2, 5] with accuracy 0.940
+Forward Selection completed in 21.561 seconds.
